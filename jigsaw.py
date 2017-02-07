@@ -1,6 +1,7 @@
 #!/usr/bin/python
 
 """Generate a jigsaw puzzle pattern for cutting. Written by Lawrence Kesteloot.
+Modified by Peter Macdonald
 This program is in the public domain."""
 
 import random
